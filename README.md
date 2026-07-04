@@ -2,7 +2,7 @@
 MVP  Machine Learning &amp; Analytics - PUCRio
 # MVP — Previsão de Churn de Clientes (Telco Customer Churn)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielcsjunqueira/pgrad_pucrio_datascience/blob/main/Pos_Graduacao_PUCRio_Sprint_Machine_Learning_%26_Analytics_Daniel_Junqueira.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielcsjunqueira/pgrad_pucrio_datascience2/blob/main/Pos_Graduacao_PUCRio_Sprint_Machine_Learning_%26_Analytics_Daniel_Junqueira.ipynb)
 
 MVP de Machine Learning & Analytics desenvolvido para a Pós-Graduação em Ciência de Dados e Analytics da PUC-Rio, com o objetivo de prever o cancelamento de clientes (**churn**) de uma empresa de telecomunicações a partir de dados demográficos, de serviços contratados e financeiros.
 
