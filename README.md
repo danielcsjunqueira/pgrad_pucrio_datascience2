@@ -39,7 +39,7 @@ df = pd.read_csv(URL)
 
 ```
 pgrad_pucrio_datascience/
-├── MVP_ML_Analytics_Churn_DanielJunqueira.ipynb   # Notebook principal do MVP
+├── Pos_Graduacao_PUCRio_Sprint_Machine_Learning_&_Analytics_Daniel_Junqueira.ipynb   # Notebook principal do MVP
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv           # Dataset utilizado
 └── README.md                                      # Este arquivo
 ```
