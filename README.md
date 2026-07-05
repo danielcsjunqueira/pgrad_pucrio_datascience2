@@ -106,7 +106,7 @@ jupyter notebook MVP_ML_Analytics_Churn_DanielJunqueira.ipynb
 
 ## Limitações e próximos passos
 
-- Dataset estático, sem dimensão temporal — a análise de robustez a mudanças no perfil dos dados (Seção 12.4) é um *proxy*, não uma validação temporal real.
+- Dataset estático, sem dimensão temporal
 - Custos de negócio usados no ajuste de limiar são hipotéticos e deveriam ser calibrados com valores reais da área de negócio.
 - Próximos passos sugeridos: calibração de custos reais, otimização de hiperparâmetros de XGBoost/LightGBM, estudo com novos atributos derivados.
 
